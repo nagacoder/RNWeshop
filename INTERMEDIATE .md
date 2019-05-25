@@ -1,16 +1,4 @@
-## Eliminating Time
 
-Solutions are nonsense without understanding the problems they solve. We'll take a trip down memory lane to shine a light on the stuff that led to all the bugs we've written in the past to prime us to see clearly how React is going to help.
-
-Objectives:
-- Understand the problems React solves
-- Get people thinking about [the conceptual gap between the static program and the dynamic process][Dijkstra], and what it means to "eliminate time" in their apps
-##Installation
-
-Objectives:
- - Understand npm command line
- - Expo
- - 
 ## Rendering with React
 
 We'll explore the lowest level of React: rendering UI. We'll take a look at what the "Virtual DOM" and JSX are, brush up on some JavaScript array methods, and do our first coding exercise.
